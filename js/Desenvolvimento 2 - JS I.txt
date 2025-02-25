@@ -1,0 +1,6 @@
+Se você trabalha com HTML, CSS e JavaScript no VS Code, uma extensão que pode facilitar muito a sua vida é o Live Server. Com ele, você roda um servidor local que atualiza a página automaticamente sempre que salva um arquivo. Ou seja, o recarregamento do sistema é automatico ao salvar o projeto
+
+Por que usar o Live Server?
+Atualização em tempo real – Fez uma alteração no código? A página recarrega sozinha, então você vê as mudanças na hora.
+Super fácil de usar – Depois de instalar, é só dar um clique e pronto, sem complicação.
+Mais produtividade – Sem perder tempo recarregando a página manualmente.
