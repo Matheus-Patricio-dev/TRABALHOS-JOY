@@ -1,0 +1,7 @@
+MySQL
+
+O MySQL é um SGBD relacional de código aberto, amplamente adotado por sua eficiência, confiabilidade e facilidade de uso. Desenvolvido inicialmente pela empresa sueca MySQL AB, foi posteriormente adquirido pela Oracle Corporation. É especialmente popular em aplicações web, sendo utilizado em conjunto com linguagens de programação como PHP e frameworks como o WordPress. Sua arquitetura cliente-servidor permite que múltiplos usuários acessem e gerenciem dados simultaneamente, garantindo performance e escalabilidade.​
+
+PostgreSQL
+
+O PostgreSQL é outro SGBD relacional de código aberto, conhecido por sua robustez e conformidade com os padrões SQL. Oferece suporte a uma ampla variedade de tipos de dados e funcionalidades avançadas, como transações ACID, controle de concorrência multiversionamento (MVCC) e extensibilidade, permitindo que os usuários definam seus próprios tipos de dados e funções. Sua capacidade de lidar com operações complexas e grandes volumes de dados o torna uma escolha frequente em aplicações empresariais e sistemas que exigem alta integridade dos dados.
