@@ -1,0 +1,15 @@
+Entidade: Cliente
+	CódigoCliente (INT, chave primária) → Atributo simples
+	Nome (VARCHAR) → Atributo simples
+	Endereço (ATRIBUTO COMPOSTO)
+	Rua (VARCHAR)
+	Número (INT)
+	Bairro (VARCHAR)
+	Cidade (VARCHAR)
+	Estado (VARCHAR)
+	CEP (VARCHAR)
+	Telefones (VARCHAR) → Atributo multivalorado
+
+O CódigoCliente e o Nome são atributos simples porque armazenam um único valor indivisível.
+O Endereço é um atributo composto porque pode ser subdividido em várias partes.
+O Telefones é um atributo multivalorado porque um cliente pode ter mais de um número de telefone.
