@@ -1,0 +1,6 @@
+PASSOS QUE FORAM SEGUIDOS:
+
+1.Montar o cenário com 4 PCS e 1 SWITCH
+2.Conectar os dispositivos
+3.Configurar a conexão dos IPS
+4.Testar a conexão com o comando pip ´ip adress´
